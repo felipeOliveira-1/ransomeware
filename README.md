@@ -1,0 +1,3 @@
+# # Criei esse malware em Python capaz de trazer bastante dor de cabeça para a vítima.
+-> Conteúdo com propósito exclusivamente educacional <-
+Não me responsabilizo pelo q vc vai fazer com isso.  Não vai zoar a vida do outros hein...

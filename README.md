@@ -1,2 +1,2 @@
-# Malware em Python capaz de trazer bastante dor de cabeça para a vítima.
+# Malware em Python.
 -> Conteúdo com propósito exclusivamente educacional <-
